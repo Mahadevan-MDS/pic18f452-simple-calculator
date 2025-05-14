@@ -14,3 +14,8 @@ A simple calculator made using PIC18F452 microcontroller, and programmed using A
 * If wrong input entered at a field, instantly shows "BAD OPERATION!", and starts over.
 
 <br>
+
+## Circuit Diagram
+<div align="center" class="row" style="border-radius: 25px;">
+  <img " src="./circuit-diagram.png"/>
+</div>
